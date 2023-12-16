@@ -92,14 +92,6 @@ body {
   color: var(--clr-title);
 }
 
-.rating .option:checked {
-  background-color: var(--clr-bg1);
-}
-
-.hide {
-  display: none;
-}
-
 .btn {
   width: 100%;
   padding: 1em;
